@@ -5,20 +5,21 @@
 
 div#headerArticle {
     margin: 0;
-    display: flex;
-    flex-direction: column;
+    /* display: flex; */
+    /* flex-direction: column; */
     /* align-items: center; */
     /* justify-content: center; */
     padding: 0 40px;
     /* width: 100vw; */
     /* min-height: 100vh; */
     /* background-color: black; */
-    font: normal normal 400 12pt / 2cap "Golos Text", sans-serif;
-    font-family: helvetica, sans-serif;
+    /* font: normal normal 400 12pt / 2cap "Golos Text", sans-serif; */
+    /* font-family: helvetica, sans-serif; */
     /* color: white; */
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     /* max-width: 1000px; */
 }
+
 
 article {
     width: 100%;
